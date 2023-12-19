@@ -1,0 +1,14 @@
+
+ .read_more{
+	width: 30%;
+	float: left;
+	background-color: #fa3e19;
+	height: 50px;
+	font-size: 16pt;
+	margin-top: 20px;
+	border: 0px;
+    color: #fff;
+
+ }
+ .read_more :hover{color: #000}
+
